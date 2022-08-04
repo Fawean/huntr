@@ -97,7 +97,7 @@ The offical demo can also be triggered.
 
 Some other tags such as img, p can also to use the same method to trigger the xss.
 
- ![image-20220701041353056](images\image-20220701041353056.png)
+ ![image-20220701041353056](images/image-20220701041353056.png)
 
 It also can add any styles to disguise such as size, color, etc.
 
